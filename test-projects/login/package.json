@@ -23,7 +23,7 @@
     "@keystonejs/app-graphql": "^5.0.1",
     "@keystonejs/app-static": "^5.0.0",
     "@keystonejs/auth-password": "^5.0.1",
-    "@keystonejs/fields": "^6.0.0",
+    "@keystonejs/fields": "^6.3.2",
     "@keystonejs/keystone": "^5.3.0",
     "@keystonejs/list-plugins": "^5.0.1",
     "@keystonejs/session": "^5.0.0",
