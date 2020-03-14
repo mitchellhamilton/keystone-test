@@ -19,7 +19,7 @@
     "@keystonejs/app-graphql": "^5.0.1",
     "@keystonejs/app-static": "^5.0.0",
     "@keystonejs/fields": "^6.0.0",
-    "@keystonejs/keystone": "^5.3.0",
+    "@keystonejs/keystone": "^5.6.0",
     "cross-env": "^5.2.0"
   }
 }
