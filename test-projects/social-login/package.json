@@ -23,7 +23,7 @@
     "@keystonejs/app-static": "^5.0.0",
     "@keystonejs/auth-passport": "^5.0.1",
     "@keystonejs/auth-password": "^5.0.1",
-    "@keystonejs/fields": "^6.0.0",
+    "@keystonejs/fields": "^6.3.2",
     "@keystonejs/file-adapters": "^5.2.0",
     "@keystonejs/keystone": "^5.3.0",
     "cookie-parser": "^1.4.4",
