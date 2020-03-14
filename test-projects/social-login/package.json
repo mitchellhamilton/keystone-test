@@ -25,7 +25,7 @@
     "@keystonejs/auth-password": "^5.0.1",
     "@keystonejs/fields": "^6.0.0",
     "@keystonejs/file-adapters": "^5.2.0",
-    "@keystonejs/keystone": "^5.3.0",
+    "@keystonejs/keystone": "^5.6.0",
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "passport-wordpress": "^0.0.4",
