@@ -25,7 +25,7 @@
     "@keystonejs/app-static": "^5.0.0",
     "@keystonejs/auth-password": "^5.0.1",
     "@keystonejs/fields": "^6.0.2",
-    "@keystonejs/fields-markdown": "^5.0.3",
+    "@keystonejs/fields-markdown": "^5.3.2",
     "@keystonejs/fields-wysiwyg-tinymce": "^5.0.3",
     "@keystonejs/file-adapters": "^5.3.0",
     "@keystonejs/keystone": "^5.3.0",
